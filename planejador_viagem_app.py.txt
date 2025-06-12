@@ -1,7 +1,7 @@
 # === Setup Inicial ===
 # Variável de ambiente da OpenAI
 import os
-os.environ['OPENAI_API_KEY'] = 'sk-...'
+os.environ['OPENAI_API_KEY'] = 'sk-...AaUA'
 
 # Instalação de pacotes necessários
 # Execute no terminal se ainda não tiver os pacotes:
