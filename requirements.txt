@@ -1,0 +1,9 @@
+streamlit
+crewai
+langchain
+openai
+folium
+streamlit-folium
+pillow
+requests
+
